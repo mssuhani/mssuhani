@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Suhani Munjal.
+- 👀 I’m interested in coding, robotics, and exploring cybersecurity.
+- 🌱 I’m currently expanding my skills in coding and also learning about machine learning. 
+- 💞️ I’m looking to collaborate on projects related to robotics, coding challenges, or cybersecurity.
+- 📫 How to reach me: suhanimunjal97@gmail.com.
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: Recently, I worked with microcontrollers and sensors and made projects with them.
+- Successfully, completed robotics and iot , cybersecurity internship training. Got to learn a lot.
